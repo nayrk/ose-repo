@@ -3,8 +3,7 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php echo '<p>Hello World</p>'; ?>
+ <?php echo '<p>Hello World Rebuild!</p>'; ?>
  <br>
- <p> Auto Build </p>
  </body>
 </html>
